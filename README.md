@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard (Power BI)
+# Sales Performance Analysis Dashboard
 
 > A Power BI dashboard for an FMCG distributor that tracks revenue against changing sales plans and analyzes customers, products and sales team performance.
 
