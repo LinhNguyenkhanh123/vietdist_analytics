@@ -13,7 +13,7 @@ This dashboard helps sales managers answer 4 questions:
 - Which customers and products bring in the most revenue?
 - Are we keeping our customers, and how healthy is the sales team?
 
-The data covers one full year (2024) for a distribution business selling beverages, food, household products and personal care products to supermarkets, convenience stores, canteens, restaurants, online sellers and grocery stores across three regions (North, Central, South). Amounts appear to be in VND (bn = billion).
+The data covers one full year (2024) for a distribution business selling beverages, food, household products and personal care products to supermarkets, convenience stores, canteens, restaurants, online sellers and grocery stores across three regions (North, Central, South).
 
 **Special features**
 - **Plan versions:** Sales targets were revised during the year (plan v1 for Jan–Jun, plan v2 for Jul–Dec). Users can compare actual revenue against any plan version, or let the dashboard apply the latest plan automatically.
@@ -66,16 +66,14 @@ The data covers one full year (2024) for a distribution business selling beverag
 ## 4. Main Findings
 
 ### Target achievement
-1. **Revenue reached only about half of the target.** Actual revenue was **138.72bn** against a **280.00bn** target, so achievement was **49.54%**.
+1. **Revenue reached only about 50% of the target.** Actual revenue was **138.72bn** against a **280.00bn** target, so achievement was **49.54%**.
 2. **The gap is structural, not seasonal.** Monthly achievement stays around **48–52%** all year, and actual revenue is below target in every month.
-3. **Revenue has a clear seasonal pattern.** There is a sharp dip in **February** (about 8bn), a rebound in March, and the highest revenue in **December** (about 15bn). The February dip may be linked to the Tet holiday (to be confirmed).
-4. **Revenue follows active customers.** Monthly active customers (about 900–1,200) rise and fall together with revenue, so customer activity is the main driver.
-5. **The plan was revised mid-year.** Plan v1 applied from January to June, and v2 from July to December. The total annual target is about **280bn**, and viewing the year under plan v1 shows the same total and achievement.
+3. **Revenue has a clear seasonal pattern.** There is a sharp dip in **February** (about 8bn), a rebound in March, and the highest revenue in **December** (about 15bn). The February dip may be linked to the Tet holiday.
+4. **Revenue and Orders follows active customers.** Monthly active customers (about 900–1,200) rise and fall together with revenue, so customer activity is the main driver. However, Revenue Achievement shows slightly different pattern, suggesting that the sales force cannot utilize the increasing number of customer.
 
 ### Sales team
 1. **A few reps far exceed their targets.** Ngô Minh An (**340.5%**, 11.19bn) and Phạm Thanh Bình (**336.5%**, 8.96bn) lead, and together bring in about **14.5%** of total revenue.
-2. **Many other reps fall short.** Of the 13 reps visible in the table, 6 are below 100% (between **70.5% and 97.1%**).
-8. **Individual targets look similar across reps** (about 2.5–3.6bn each), while actual revenue ranges from about 2bn to 11bn. Targets may not reflect each rep's territory or customer potential.
+2. **Individual targets look similar across reps** (about 2.5–3.6bn each), while actual revenue ranges from about 2bn to 11bn. Targets may not reflect each rep's territory or customer potential.
 3. **Senior Sales Representatives bring in 60% of revenue** (84bn) and Sales Representatives 39% (54bn).
 4. **Revenue is concentrated in mid-tenure and younger reps.** Reps with **5–10 years** of tenure generate about 77% of revenue, and the **25–34** age group about 68%. Almost no revenue comes from the 1–3 year and 10+ year tenure groups.
 5. **Central Region leads.** **Team Trung 1** alone generates **34.37bn** (about 25% of revenue and 25% of orders), with 395 active customers, compared with about 170–215 active customers in teams such as Team Nam 3, Team Nam 4 and Team Bắc 2.
